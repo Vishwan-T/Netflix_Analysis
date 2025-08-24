@@ -1,5 +1,5 @@
 # Netflix_Analysis
-
+![](https://github.com/Vishwan-T/Netflix_Analysis/blob/main/netflix_PNG25.png)
 
 ## Overview
 This project involves a comprehensive analysis of Netflix's movies and TV shows data using MySQL.
